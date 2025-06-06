@@ -9,7 +9,7 @@ This dashboard was built using Power BI to analyze and visualize sales performan
 
 ## 📂 Tools Used
 - Power BI
-- Sample Superstore Sales Dataset (xlsx)
+- Sample Superstore Sales Dataset (csv)
 
 ## 📈 Dashboard Visuals
 1. **Line Chart** – Sales over Time
