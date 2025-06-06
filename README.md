@@ -27,7 +27,7 @@ This dashboard was built using Power BI to analyze and visualize sales performan
    - Allows users to interactively filter all visuals by specific regions
 
 
-🔗 Submission This repository contains:
+## 🔗 Submission This repository contains:
 - Power BI Report file: `superstore-sales.pbix`
 - Dashboard Screenshot: `dashboard-screenshot.png`
 - Key Insights: `insights.txt`
